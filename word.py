@@ -1,2 +1,2 @@
-
+pirnt('baibna')
 print('okk')
